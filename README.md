@@ -1,16 +1,7 @@
-# admin
+# Well Sorted
 
-A new Flutter project.
+An admin panel is a must-have for applications like e-commerce projects or content management systems, known as CMSes etc. As you already know, responsive is the hot keyword nowadays. Even if it is a very powerful admin panel, Well Sorted is responsive from head to toe.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It's user friendly interface, oriented to a single user activity, rather than to the entire app. It comes with features like lazy load and nested navigation flows. Well Sorted really built things with user experience in mind and created not just a regular panel but also an app with gorgeous visual UI elements.
